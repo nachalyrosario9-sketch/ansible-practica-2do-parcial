@@ -27,3 +27,7 @@ ansible-playbook -i inventory.ini playbook.yml
 ## Resultado
 
 El playbook fue ejecutado correctamente en server1 y server2.
+
+## Evidencia de ejecución
+
+![Ejecución exitosa del playbook](evidencia/ejecucion-playbook.png)
